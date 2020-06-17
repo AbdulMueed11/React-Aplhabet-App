@@ -1,0 +1,132 @@
+[
+	{
+		"letter": "A",
+		"image": "http://i.imgur.com/5gNxsq4.png",
+		"word": "apple"
+	},
+	{
+		"letter": "B",
+		"image": "http://i.imgur.com/puLXcrq.png",
+		"word": "Banana"
+	},
+	{
+		"letter": "C",
+		"image": "http://i.imgur.com/LuACTUl.png",
+		"word": "cat"
+	},
+	{
+		"letter": "D",
+		"image": "http://i.imgur.com/C7uaAMx.png",
+		"word": "dog"
+	},
+	{
+		"letter": "E",
+		"image": "http://i.imgur.com/ozb76ky.png",
+		"word": "elephant"
+	},
+	{
+		"letter": "F",
+		"image": "http://i.imgur.com/QOmdCjH.png",
+		"word": "Fish"
+	},
+	{
+		"letter": "G",
+		"image": "http://i.imgur.com/WIm4bMi.png",
+		"word": "Giraffe"
+	},
+	{
+		"letter": "H",
+		"image": "http://i.imgur.com/B41MaQP.png",
+		"word": "House"
+	},
+	{
+		"letter": "I",
+		"image": "http://i.imgur.com/KdYJxEj.png",
+		"word": "Ice Cream"
+	},
+	{
+		"letter": "J",
+		"image": "http://i.imgur.com/LDeRx1c.png",
+		"word": "Jeans"
+	},
+	{
+		"letter": "K",
+		"image": "http://i.imgur.com/zyMpzKq.png",
+		"word": "Kite"
+	},
+	{
+		"letter": "L",
+		"image": "http://i.imgur.com/X7aEpub.png",
+		"word": "Lion"
+	},
+	{
+		"letter": "M",
+		"image": "http://i.imgur.com/Hpkv2up.png",
+		"word": "Monkey"
+	},
+	{
+		"letter": "N",
+		"image": "http://i.imgur.com/TXqMhbu.png",
+		"word": "Nest"
+	},
+	{
+		"letter": "O",
+		"image": "http://i.imgur.com/okKXvpq.png",
+		"word": "Orange"
+	},
+	{
+		"letter": "P",
+		"image": "http://i.imgur.com/NVWsB8t.png",
+		"word": "Pig"
+	},
+	{
+		"letter": "Q",
+		"image": "http://i.imgur.com/IgArUnV.png",
+		"word": "Queen"
+	},
+	{
+		"letter": "R",
+		"image": "http://i.imgur.com/uaky4f7.png",
+		"word": "Rabbit"
+	},
+	{
+		"letter": "S",
+		"image": "http://i.imgur.com/h7zUdF0.png",
+		"word": "Snake"
+	},
+	{
+		"letter": "T",
+		"image": "http://i.imgur.com/ORLzuAx.gif",
+		"word": "Tree"
+	},
+	{
+		"letter": "U",
+		"image": "http://i.imgur.com/sZEFTus.png",
+		"word": "Umbrella"
+	},
+	{
+		"letter": "V",
+		"image": "http://i.imgur.com/op0yiJR.png",
+		"word": "Violin"
+	},
+	{
+		"letter": "W",
+		"image": "http://i.imgur.com/O8jk2c7.png",
+		"word": "Watch"
+	},
+	{
+		"letter": "X",
+		"image": "http://i.imgur.com/N5ldZkA.png",
+		"word": "Xylophone"
+	},
+	{
+		"letter": "Y",
+		"image": "http://i.imgur.com/RFJXzF0.png",
+		"word": "Yo Yo"
+	},
+	{
+		"letter": "Z",
+		"image": "http://i.imgur.com/GiI6LFJ.png",
+		"word": "Zebra"
+	}
+]
